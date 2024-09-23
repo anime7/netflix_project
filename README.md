@@ -1,1 +1,1 @@
-# netflix_project
+# netflix_project : Data Analysis with SQL
